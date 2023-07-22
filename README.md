@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @divitrao, a web and software developer with a passion for data science. Experienced in React Native, Django, Python, SQL, Kotlin, and ML. Mobile app specialist with a focus on user-centric design and optimization. Seeking web development collaborations. Let's build together! 🚀
+- 👋 Hi, I’m @divitrao, a web and software developer. Experienced in React Native, Django, Python, SQL, Kotlin, and ML. Mobile app specialist with a focus on user-centric design and optimization. Seeking web development collaborations. Let's build together! 🚀
 - 📫 How to reach me you all can mail me at divitrao97d@gmail.com
 
 <!---
